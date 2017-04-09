@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\nlayout: post\ntitle: \"March 21, 2017  In-Class\"\ntags: [R, RMarkdown, Simulations]\n---\n\n\n\n\n# Simulations in R\n\n\nIn your pre-class work you have created a simulation of a game.\n\nThere will be 2 parts to this class: \n  \n1. Peer Review Pre-Class Simulations\n2. Create New simulation in groups. \n\n\n\n\n## Peer Review\n\n1. In this part, take the pre-class lab that you have created before. Add a fork of it into your personal github. \n\n\n2. Once the fork is there go into the github account below that you are being asked to review. Find their simulation and run through the code of this. \n\n3. Go into the issues tab on their github repository and make comments and suggestions. Comment on:\n    a. Clarity\n    b. Comments\n    c. How well it runs. \n\n  \n\n| Your Name | Github Name to Review |\n| --------- | ---------------------- |\n| Chang | tinoreskovic |\n| Molly | vicchen1991 | \n| Tin | wanting-zhai | \n| Zheng | mollymccarthy | \n|Wanting | zhangpa | \n| Patrick | zsi1 | \n\n\n## Simulations in Class\n\n[Simulations in Class](https://classroom.github.com/group-assignment-invitations/e247cedcbf5c310a34e4c41d10bd054b)",
+    "created" : 1491763673557.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "463687875",
+    "id" : "88FA95B3",
+    "lastKnownWriteTime" : 1491763706,
+    "last_content_update" : 1491763706931,
+    "path" : "C:/Users/adam_/Dropbox/Brown/PHP2560/inclass/_posts/2017-03-21-in-class-lab.md",
+    "project_path" : "_posts/2017-03-21-in-class-lab.md",
+    "properties" : {
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

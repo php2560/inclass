@@ -1,0 +1,101 @@
+# --- Serving options --- #
+# If you are building a GitHub project page then use these settings:
+# url is the full website URL
+url: "http://php2560.com/website"
+# baseurl is the website's URL without the hostname
+baseurl: "/website"
+
+# Name of website
+title: PHP 2560
+
+# Short description of your site
+description: Statistical Programming with R
+
+# --- Navigation bar options --- #
+# Image to show in the navigation bar - image must be a square (width = height)
+avatar: "/img/php2560.jpg"
+
+# List of links in the navigation bar
+navbar-links:
+  Home: ""
+  Syllabus: "syllabus"
+  Pre-Class: "http://php2560.com/preclass"
+  In-Class: "http://php2560.com/inclass"
+  DataCamp Course: "https://www.datacamp.com/courses/1118/"
+  Contact: "contact"
+
+# --- Footer options --- #
+author:
+  name: Adam J Sullivan
+  email: "adam_sullivan@brown.edu"
+  github: sullivanstatistics
+  twitter: sullivanstats
+
+# Select which links to show in the footer
+footer-links-active:
+  email: true
+  github: true
+  twitter: true
+  facebook: false
+  rss: false
+  linkedin: false
+  stackoverflow: false
+
+# How to display the link to the website in the footer
+url-pretty: "http://php2560"
+
+# --- Pagination options --- #
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# --- Misc --- #
+
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+disqus: "php2560"
+
+
+
+# Fill in your Google Analytics ID to track your website using GA
+google_analytics: "UA-93049117-1"
+
+
+# --- Don't need to touch anything below here (but you can if you want) --- #
+# Output options (more information on Jekyll's site)
+timezone: "America/Eastern"
+markdown: kramdown
+highlighter: Rouge
+permalink: /:year-:month-:day-:title
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
+
+# Exclude these files from production site
+exclude:
+  - CNAME
+  - LICENSE
+  - README.md
+
+# prose.io options
+prose:
+  ignore:
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - /_includes
+    - /_layouts
+    - /css
+    - /img
+    - /js

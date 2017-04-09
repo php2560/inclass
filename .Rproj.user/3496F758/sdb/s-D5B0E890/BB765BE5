@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : ".share-page {\n  text-align: center;\n  background-color: #FCFAF0;\n  padding: 8px 15px;\n  border-radius: 10px;\n  margin-top: 30px;\n  margin-bottom: 30px;\n  margin-left: auto;\n  margin-right: auto;\n  width: 65%;\n}\n.share-page a {\n  font-weight: 700;\n  margin-left: 10px;\n}\n.share-page a :hover {\n  border-bottom: 1px dashed #000000;\n}\n",
+    "created" : 1491763188281.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "375702555",
+    "id" : "BB765BE5",
+    "lastKnownWriteTime" : 1491673863,
+    "last_content_update" : 1491673863,
+    "path" : "C:/Users/adam_/Dropbox/Brown/PHP2560/preclass/css/share-page.css",
+    "project_path" : "css/share-page.css",
+    "properties" : {
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}
