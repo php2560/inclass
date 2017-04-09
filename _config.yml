@@ -17,12 +17,12 @@ avatar: "/img/php2560.jpg"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  Home: "http://php2560.com/"
   Syllabus: "http://php2560.com/syllabus"
   Pre-Class: "http://php2560.com/preclass"
   In-Class: "http://php2560.com/inclass"
   DataCamp Course: "https://www.datacamp.com/courses/1118/"
-  Contact: "contact"
+  Contact: "http://php2560.com/contact"
 
 # --- Footer options --- #
 author:
