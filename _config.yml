@@ -1,9 +1,9 @@
 # --- Serving options --- #
 # If you are building a GitHub project page then use these settings:
 # url is the full website URL
-url: "http://php2560.com/website"
+url: "http://php2560.com/"
 # baseurl is the website's URL without the hostname
-baseurl: "/website"
+baseurl: "/"
 
 # Name of website
 title: PHP 2560
@@ -18,7 +18,7 @@ avatar: "/img/php2560.jpg"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Syllabus: "syllabus"
+  Syllabus: "http://php2560.com/syllabus"
   Pre-Class: "http://php2560.com/preclass"
   In-Class: "http://php2560.com/inclass"
   DataCamp Course: "https://www.datacamp.com/courses/1118/"
