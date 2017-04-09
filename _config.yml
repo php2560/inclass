@@ -1,9 +1,9 @@
 # --- Serving options --- #
 # If you are building a GitHub project page then use these settings:
 # url is the full website URL
-url: "http://php2560.com/"
+url: "http://php2560.com/inclass"
 # baseurl is the website's URL without the hostname
-baseurl: "/"
+baseurl: "/inclass"
 
 # Name of website
 title: PHP 2560
@@ -46,7 +46,7 @@ url-pretty: "http://php2560"
 
 # --- Pagination options --- #
 paginate: 5
-paginate_path: "/blog/page:num/"
+paginate_path: "http://php2560.com/inclass/page:num/"
 
 # --- Misc --- #
 
