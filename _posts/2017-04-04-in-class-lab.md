@@ -6,12 +6,6 @@ tags: [R, RMarkdown, SQL, Github]
 
 
 
-```{r, echo=FALSE}
-knitr::opts_chunk$set(
-  tidy=TRUE,     # display code as typed
-  size="small",
-  eval=F)
-```
 
 
 ## Amazon Services
