@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "March 21, 2017  In-Class"
+title: "March 21, 2017 Simulations  In-Class"
 tags: [R, RMarkdown, Simulations]
 ---
 

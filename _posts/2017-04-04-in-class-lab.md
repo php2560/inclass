@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "April 4, 2017  In-Class"
+title: "April 4, 2017 SQL  In-Class"
 tags: [R, RMarkdown, SQL, Github]
 ---
 

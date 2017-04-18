@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "April 18, 2017  In-Class"
-tags: [R, RMarkdown, Simulations]
+title: "April 18, 2017 ggplot In-Class"
+tags: [R, RMarkdown, ggplot]
 ---
 
 

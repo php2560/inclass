@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "February 28, 2017  In-Class"
+title: "February 28, 2017 Functions In-Class"
 tags: [R, RMarkdown, Functions, Github]
 ---
 
