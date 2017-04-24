@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "April 24, 2017 ggplot In-Class"
+title: "April 24, 2017 R Package Project"
 tags: [R, RMarkdown, ggplot]
 ---
 
